@@ -9,10 +9,10 @@
         
         
        1)As the angular velocity gets larger and larger, a stable oscillation around π can be seen.
-       ![Alt text](http://i.imgur.com/YtIVtGk.png)
+![Alt text](http://i.imgur.com/YtIVtGk.png)
             
        
        2) However for angular velocity lower than 145 R/s, the oscillation is no longer around a constant value.
-       ![Alt text](http://i.imgur.com/wyBfGzL.png)
+![Alt text](http://i.imgur.com/wyBfGzL.png)
 
 
