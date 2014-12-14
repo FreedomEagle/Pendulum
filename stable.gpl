@@ -1,0 +1,10 @@
+ unset key
+set style data line
+
+set term png
+set o "stable.png"
+set title "Stable"
+set xlabel "Time"
+set ylabel "Angle"
+
+p [0:] [3:3.3] "res1" u 1:2
